@@ -1,1 +1,8 @@
+/target
+/postgres
+/init
+/meilisearch
+/migration/target
+/entity/target
+.env
 /.direnv

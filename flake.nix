@@ -30,8 +30,6 @@
               openssl
               pkg-config
               bacon
-              nodejs
-              corepack
               (rust-bin.stable.latest.default.override { extensions = [ "rust-src" ]; })
               sea-orm-cli
             ];
